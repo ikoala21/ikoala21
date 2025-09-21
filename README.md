@@ -1,16 +1,31 @@
-### Hi there 👋
+# 👋 Hi, I’m Manasa
 
-<!--
-**ikoala21/ikoala21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me
+- 💻 Writing C++ for a living, tinkering with systems & performance  
+- 🌐 Learning the ropes of front-end (React + TypeScript)  
+- ☁️ Exploring cloud & distributed systems  
+- ✍️ Trying to get back into writing blogs on C++ internals, performance, and design  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+**Languages:** C++17/20, Python, JavaScript/TypeScript, SQL  
+**Frameworks & Tools:** Qt, React, Next.js, Node.js  
+**Systems:** Linux, Windows, Docker, Kubernetes  
+**Other Interests:** Performance engineering  
+
+---
+
+### 🌱 What I’m Learning
+- Scaling system design (low-latency, high-throughput systems)  
+- Advanced C++ concurrency patterns  
+- React + TypeScript for UI development  
+- Cloud-native build & deployment pipelines  
+
+---
+
+### 📫 Reach Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/manasa-kalaga/) 
+- 📝 [Blog](https://medium.com/@mksighs)
+
+⭐️ *"Still figuring it all out, one system at a time."*
