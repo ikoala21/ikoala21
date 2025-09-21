@@ -2,14 +2,14 @@
 
 ### 🚀 About Me
 - 💻 Writing C++ for a living, tinkering with systems & performance  
-- 🌐 Learning the ropes of front-end (React + TypeScript)  
+- 🌐 Learning the ropes of front-end
 - ☁️ Exploring cloud & distributed systems  
 - ✍️ Trying to get back into writing blogs on C++ internals, performance, and design  
 
 ---
 
 ### 🛠️ Tech Stack
-**Languages:** C++17/20, Python, JavaScript/TypeScript, SQL  
+**Languages:** C++17/20, Java, Python, JavaScript/TypeScript
 **Frameworks & Tools:** Qt, React, Next.js, Node.js  
 **Systems:** Linux, Windows, Docker, Kubernetes  
 **Other Interests:** Performance engineering  
