@@ -1,26 +1,18 @@
 # 👋 Hi, I’m Manasa
 
 ### 🚀 About Me
-- 💻 Writing C++ for a living, tinkering with systems & performance  
+- 💻 Writing C++ & Java for a living, tinkering with systems & performance  
 - 🌐 Learning the ropes of front-end
 - ☁️ Exploring cloud & distributed systems  
-- ✍️ Trying to get back into writing blogs on C++ internals, performance, and design  
-
+- ✍️ Occasionally blogging about C++, because my compiler errors need an audience
+- ☕  Survives almost entirely on chai
 ---
 
 ### 🛠️ Tech Stack
-**Languages:** C++17/20, Java, Python, JavaScript/TypeScript
-**Frameworks & Tools:** Qt, React, Next.js, Node.js  
-**Systems:** Linux, Windows, Docker, Kubernetes  
-**Other Interests:** Performance engineering  
-
----
-
-### 🌱 What I’m Learning
-- Scaling system design (low-latency, high-throughput systems)  
-- Advanced C++ concurrency patterns  
-- React + TypeScript for UI development  
-- Cloud-native build & deployment pipelines  
+- Languages: C++17/20, Java, Python, JavaScript/TypeScript
+- Frameworks & Tools: Qt, React, Next.js, Node.js  
+- Systems: \*nix, Windows, Docker, Kubernetes  
+- Other Interests: Performance engineering  
 
 ---
 
@@ -28,4 +20,4 @@
 - 💼 [LinkedIn](https://www.linkedin.com/in/manasa-kalaga/) 
 - 📝 [Blog](https://medium.com/@mksighs)
 
-⭐️ *"Still figuring it all out, one system at a time."*
+return chai;
